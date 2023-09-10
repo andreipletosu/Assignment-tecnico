@@ -52,10 +52,10 @@ I used the following dependencies inside the project:
 ### Angular Packeges
 
 #### Packages used for design
-##### Bootstrap
+##### Bootstrap --------------------------------------------------------------------------------
 `ng add @ng-bootstrap/ng-bootstrap`
-
-##### Angular Material
+Basic layout framework
+##### Angular Material -------------------------------------------------------------------------
 `npm install --save @angular/material @angular/cdk`
 Usefull for dialog pop-ups that I used to show gifs details.
 Usefull also for the filter `radio-buttons`
@@ -63,12 +63,12 @@ Usefull also for the filter `radio-buttons`
 Run the following command to add the animations(if they don't work):
 ` add @angular/material`
 
-##### Ngx Infite Scroll and Ngx-Masonry
+##### Ngx Infite Scroll and Ngx-Masonry --------------------------------------------------------
 `npm i ngx-infinite-scroll`
 `npm install ngx-masonry masonry-layout --save`
 
 Both helpful into creating the infite scroll and mosaic/masonry layout of the website.
 #### Packages used for functionality
-##### Angular-jwt
+##### Angular-jwt ------------------------------------------------------------------------------
 `npm install @auth0/angular-jwt`
 Used front-end to first of all to authenticate then to gather some information about the user through his `Token`
