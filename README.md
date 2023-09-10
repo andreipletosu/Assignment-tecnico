@@ -32,3 +32,23 @@ If you cannot connect to the database modify the **ConnectionsString** inside th
   }
 ```
 ## Packages/Dependencies Used
+
+### ASP.NET Packages
+
+I used the following dependencies inside the project:
+- Microsoft.AspNetCore.Authentication.JwtBearer
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+
+  #### Microsoft.AspNetCore.Authentication.JwtBearer
+
+  Package used to create a JWT token in order to authenthicate the user and block unregistered and unauthorized users from accessing the `/dashboard`
+
+  #### Microsoft.EntityFrameworkCore.(...)
+
+  Packages used to create the connection back-end <---> database and to create all the `GET/POST/PUT` APIs
+
+### Angular Packeges
+
+####
