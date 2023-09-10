@@ -25,5 +25,10 @@ PM> update-database
 ```
 This will create the Database AssignemntDb
 
-(if the are problems modify )
+If you cannot connect to the database modify the **ConnectionsString** inside the _ _appsettings.json_ _:
+```
+"ConnectionStrings": {
+    "SqlServerConnStr": "Data Source = localhost,1433; User ID = sa; Password = testPassword1234; Initial Catalog = AssignmentDb; Integrated Security = true; Trust Server Certificate = true;MultipleActiveResultSets=true;Trusted_Connection=False;"
+  }
+```
 ## Packages/Dependencies Used
