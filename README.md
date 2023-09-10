@@ -25,7 +25,7 @@ PM> update-database
 ```
 This will create the Database AssignemntDb
 
-If you cannot connect to the database modify the **ConnectionsString** inside the _ _appsettings.json_ _:
+If you cannot connect to the database modify the **ConnectionsString** inside the _appsettings.json_:
 ```
 "ConnectionStrings": {
     "SqlServerConnStr": "Data Source = localhost,1433; User ID = sa; Password = testPassword1234; Initial Catalog = AssignmentDb; Integrated Security = true; Trust Server Certificate = true;MultipleActiveResultSets=true;Trusted_Connection=False;"
@@ -52,10 +52,10 @@ I used the following dependencies inside the project:
 ### Angular Packeges
 
 #### Packages used for design
-##### _ _Bootstrap_ _
+##### _Bootstrap_
 `ng add @ng-bootstrap/ng-bootstrap`
 Basic layout framework
-##### _ _Angular Material_ _
+##### _Angular Material_
 `npm install --save @angular/material @angular/cdk`
 Usefull for dialog pop-ups that I used to show gifs details.
 Usefull also for the filter `radio-buttons`
@@ -63,12 +63,12 @@ Usefull also for the filter `radio-buttons`
 Run the following command to add the animations(if they don't work):
 ` add @angular/material`
 
-##### _ _Ngx Infite Scroll and Ngx-Masonry_ _
+##### _Ngx Infite Scroll and Ngx-Masonry_
 `npm i ngx-infinite-scroll`
 `npm install ngx-masonry masonry-layout --save`
 
 Both helpful into creating the infite scroll and mosaic/masonry layout of the website.
 #### Packages used for functionality
-##### _ _auth0/Angular-jwt_ _
+##### _auth0/Angular-jwt_
 `npm install @auth0/angular-jwt`
 Used front-end to first of all to authenticate then to gather some information about the user through his `Token`
