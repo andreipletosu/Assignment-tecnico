@@ -1,8 +1,8 @@
 # Assignment-tecnico
 
 ## How to install
-[!NOTE]
-YOU HAVE TO MAKE AN ACCOUNT by clicking on Sign Up then Log In
+> [!NOTE]
+> YOU HAVE TO MAKE AN ACCOUNT by clicking on Sign Up then Log In
 ### Docker setup
 
 I installed Docker using WSL 2 and used a **Microsoft SQL server** on Ubuntu
