@@ -2,7 +2,7 @@
 
 ## How to install
 > [!NOTE]
-> YOU HAVE TO MAKE AN ACCOUNT by clicking on Sign Up then Log In
+> You have to register first by clicking on Sign Up then Login into the site and use it
 ### Docker setup
 
 I installed Docker using WSL 2 and used a **Microsoft SQL server** on Ubuntu
