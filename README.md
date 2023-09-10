@@ -49,7 +49,7 @@ I used the following dependencies inside the project:
 
   Packages used to create the connection back-end <---> database and to create all the `GET/POST/PUT` APIs
 
-### Angular Packeges
+### Angular Packages
 
 #### Packages used for design
 ##### _Bootstrap_
