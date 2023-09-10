@@ -1,0 +1,4 @@
+<form class="d-flex input-field form-control bg-white">
+    <input type="text" placeholder="Search any gif..." #gif (keydown.enter)="search($event,gif.value)">
+    <span (click)="search($event,gif.value)" class="fa fa-search"></span>
+</form>

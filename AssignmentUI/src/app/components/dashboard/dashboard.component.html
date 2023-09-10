@@ -1,0 +1,28 @@
+<nav class="navbar navbar-light bg-light justify-content-evenly align-items-center">
+
+    <div class="my-1 mx-3 my-lg-0 nav-item d-flex align-items-center">
+    <div class="navbar-brand mx-3 mt-3" href="#">Hello, <h2 style="font-size: larger;">{{username}}</h2></div>
+        <a (click)="reset()" class="btn-dark h5 ms-2 p-2 border border-dark rounded mt-3">Home</a>
+        <a class="btn-dark h5 ms-2 p-1 py-2 border border-dark rounded mt-3" (click)="redirectToFavourites()"><i class="fa fa-heart mx-1" style="color: crimson"></i>Favourites</a>
+    </div>
+    <app-search-bar  class="col-md-8 align-items-center d-flex align-self-center mt-3"></app-search-bar>
+    
+    <span class="d-flex align-items-center mt-3">
+        <mat-radio-group [(ngModel)]="filter">
+            <mat-radio-button  value="trending" (change)="checkAndDo($event)"></mat-radio-button>
+            <label for="filter">Trending</label>
+            <br>
+            <mat-radio-button  value="latest" (change)="checkAndDo($event)"></mat-radio-button>
+            <label for="filter">Latest</label>
+            <br>
+            <mat-radio-button  value="oldest" (change)="checkAndDo($event)"></mat-radio-button>
+            <label for="filter">Oldest</label>
+        </mat-radio-group>
+        </span>
+    <div class="mx-3 my-lg-0">
+        <a (click)="logout()" class="btn-primary">Sign Out</a>
+    </div>
+  </nav>
+<div class="outer">
+    <app-gifs></app-gifs>
+</div>

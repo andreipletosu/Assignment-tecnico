@@ -1,0 +1,16 @@
+app-seach-bar:focus{
+    box-shadow:none;
+    border:1px solid #000;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+    transition: 0.2s ease-in-out;
+}
+
+a:active{
+    background-color: white;
+    color: #000;
+    transition: .1s ease-in;
+}

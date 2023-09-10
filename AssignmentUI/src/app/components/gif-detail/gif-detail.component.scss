@@ -1,0 +1,37 @@
+.container{
+    border-radius: 12px;
+    background-color: white;
+    box-sizing: border-box;
+    
+}
+.img-container{
+    filter: brightness(80%); 
+    background-color: transparent;
+    margin: 0;
+    display: flex;
+    max-width: 1000px;
+    min-width: 300px;
+}
+i{
+    filter: saturate(100);
+    color: crimson;
+    pointer-events: auto;
+    position: absolute;
+    right: 0;
+}
+
+i:hover{
+    cursor: pointer;
+}
+
+.info{
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 3px 5px 0px inset;
+}
+
+
+img:hover{
+    
+    // box-shadow: 0 3px 3px 0 rgba(207, 200, 200, 0.342);
+    // transform: scale(1.2);
+    transition: .2s ease-in-out;
+}

@@ -1,0 +1,17 @@
+<div class="gifs ms-1 p-5" style="min-height: 1000px;"  infinite-scroll
+[infiniteScrollDistance]="distance"
+[infiniteScrollThrottle]="throttle"
+(scrolled)="onScroll()">
+    <ngx-masonry [options]="{ gutter: 10 }">
+        <div ngxMasonryItem class="gif" *ngFor="let gif of gifs">
+            <div class="box" (click)="GifDetails(gif)">
+                <img  [src]="gif.images.downsized.url || 'https://placehold.co/600x400'" alt="">
+                <p class="author text-center" >
+                    <span style="font-weight: bold;"></span>{{gif.title}}
+                    <br>
+                    <span *ngIf="gif.username">({{gif.username}})</span>
+                </p>
+            </div>
+        </div>
+    </ngx-masonry>
+</div>

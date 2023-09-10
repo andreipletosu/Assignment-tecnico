@@ -1,0 +1,154 @@
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/appsettings.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/AngularAuthAPI
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/AngularAuthAPI.deps.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/AngularAuthAPI.runtimeconfig.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/AngularAuthAPI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/AngularAuthAPI.pdb
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Azure.Core.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Humanizer.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.csproj.AssemblyReference.cache
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.AssemblyInfoInputs.cache
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.AssemblyInfo.cs
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.csproj.CoreCompileInputs.cache
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets/msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.AngularAuthAPI.props
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AngularAuthAPI.props
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AngularAuthAPI.props
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/scopedcss/bundle/AngularAuthAPI.styles.css
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.csproj.CopyComplete
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/refint/AngularAuthAPI.dll
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.pdb
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/AngularAuthAPI.genruntimeconfig.cache
+/Users/andreicosminpletosu/Desktop/provaa/angular_auth/AngularAuthAPI/AngularAuthAPI/obj/Debug/net7.0/ref/AngularAuthAPI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\refint\AngularAuthAPI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.pdb
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\AngularAuthAPI.exe
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\AngularAuthAPI.deps.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\AngularAuthAPI.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\AngularAuthAPI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\AngularAuthAPI.pdb
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\scopedcss\bundle\AngularAuthAPI.styles.css
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\AngularAuthAPI.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\Assignment tecnico\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net7.0\ref\AngularAuthAPI.dll

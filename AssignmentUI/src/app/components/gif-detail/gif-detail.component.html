@@ -1,0 +1,27 @@
+<div class="container d-flex justify-content-between p-0">
+    <div class="img-container">
+        <img src="{{data.images.downsized.url}}" alt="">
+    </div>
+    <div class="info d-flex flex-column p-5">
+        <p style="font-size: 20px"> 
+            <span *ngIf="data.username">
+                <span class="text-primary">Username:</span> {{data.username}}
+            </span>
+            <span><hr></span>
+            <br>
+            <br>
+            <span class="text-primary">Rating:</span><span class="text-uppercase">  {{data.rating}}</span>
+            <br>
+            <br>
+            <span class="text-primary">Created:</span> {{data.import_datetime | date:'mediumDate'}}
+            <br>
+            <br>
+            <span *ngIf="!(data.trending_datetime == '0000-00-00 00:00:00') ">
+                <span class="text-primary">Trending:</span> {{data.trending_datetime | date:'mediumDate'}}
+            </span>
+        </p>
+        <br><br><br><br>
+    </div>
+    <span class="align-self-end mx-4 mb-5" style="position: absolute; right: 0;">Add to Favorites</span>
+    <i [ngClass]="status ? 'fa fa-heart' : 'fa fa-heart-o '" class="fa-3x p-2 mx-5 align-self-end" (click)="addFav()"></i>
+</div>
