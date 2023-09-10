@@ -1,7 +1,7 @@
 # Assignment-tecnico
 
 ## How to install
-> [!NOTE]
+> [!IMPORTANT]
 > You have to register first by clicking on Sign Up then Login into the site and use it
 ### Docker setup
 
