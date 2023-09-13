@@ -2,7 +2,7 @@
 
 ## How to install
 > [!IMPORTANT]
-> You have to register first by clicking on Sign Up then Login into the site and use it
+> You have to register first by clicking on Sign Up then Login into the site and use it/n
 > The password must contain 8 characters 1 Uppercase character 1 number and 1 special character
 ### Docker setup
 
