@@ -3,6 +3,7 @@
 ## How to install
 > [!IMPORTANT]
 > You have to register first by clicking on Sign Up then Login into the site and use it
+> The password must contain 8 characters 1 Uppercase character 1 number and 1 special character
 ### Docker setup
 
 I installed Docker using WSL 2 and used a **Microsoft SQL server** on Ubuntu
